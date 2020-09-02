@@ -1,0 +1,1 @@
+This is the menu module. Takes in a series of strings to create a menu. A separate string is taken as the title.
